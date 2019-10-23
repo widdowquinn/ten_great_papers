@@ -4,15 +4,15 @@
 
 The PLoS journals regularly produce papers with good general advice for researchers under a "Ten simple rules for X", or "A Quick Y to Z". They're always good quick reads, and I don't think there's one that I haven't learned something from.
 
-That there are so many of these papers makes it difficult to recommend any single one, or even a small number. But under the same constraint as those papers' authors, here are ten of the most appropriate that I put together for wet lab biologists looking for general guidance when turning to bioinformatics and computing more seriously. I've had to leave some great papers out, but suggestions are what the [issues page ](https://github.com/widdowquinn/ten_great_papers/issues) of this repository is for ;)
+That there are so many of these papers makes it difficult to recommend any single one, or even a small number. But under the same constraint as those papers' authors, here are ten of the most appropriate that I put together for wet lab biologists looking for general guidance when turning to bioinformatics and computing more seriously. I've had to leave some great papers out, but suggestions are what the [issues page](https://github.com/widdowquinn/ten_great_papers/issues) of this repository is for ;)
 
 ## The papers
 
-- NOTE: PDFs of all the papers can be found in the `papers` subdirectory of this repository (Which you can download as a compressed file [here](https://github.com/widdowquinn/ten_great_papers/releases)). 
+- NOTE: PDFs of all the papers can be found in the `papers` subdirectory of this repository (Which you can download as a compressed file [here](https://github.com/widdowquinn/ten_great_papers/releases)).
 
 1. Noble, W. S. (2009). A quick guide to organizing computational biology projects. *PLoS Computational Biology*, 5(7), e1000424. [http://doi.org/10.1371/journal.pcbi.1000424](http://doi.org/10.1371/journal.pcbi.1000424)
 
-    The classic guide to structured organisation of files for a computational project. It's absolutely foundational that you will need to be able to rapidly and unambiguously find your data (and code, if you write any) quickly, and that others will be able to follow your work and your reasoning. This paper presents a sensible way to begin doing that. It's natural to move away from the precise structure described here, over time, to suit the project and what works for you - but if you don't take into account the principles described in this paper, you *will* have a bad time at some point.
+    The classic guide to structured organisation of files for a computational project. It's absolutely foundational that you will need to be able to rapidly and unambiguously find your data (and code, if you write any) quickly, and that others will be able to follow your work and your reasoning. This paper presents a sensible way to begin doing that. It's natural to move away from the precise structure described here, over time, to suit the project and what works for you - buts if you don't take into account the principles described in this paper, you *will* have a bad time at some point.
 
 2. Sandve, G. K., Nekrutenko, A., Taylor, J., & Hovig, E. (2013). Ten simple rules for reproducible computational research. *PLoS Computational Biology*, 9(10), e1003285. [http://doi.org/10.1371/journal.pcbi.1003285](http://doi.org/10.1371/journal.pcbi.1003285)
 
