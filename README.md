@@ -50,6 +50,6 @@ That there are so many of these papers makes it difficult to recommend any singl
 
     At some point, you'll want to describe your work to others. Writing about computational biology is writing about biology. It might be tempting, with a new field, to go into more detail to demonstrate your own understanding, or just because it seems a bit unfamiliar or potentially complex/jargon-ridden to your peers who haven't made the same journey. But the general principles of scientific writing still apply, and this paper does an excellent (and concise) job of encouraging and demonstrating good scientific writing.
 
-- BONUS PAPER: Erren, T. C., Slanger, T. E., Groß, J. V., Bourne, P. E., & Cullen, P. (2015). Ten simple rules for lifelong learning, according to hamming. *PLoS Computational Biology*, 11(2), e1004020. [http://doi.org/10.1371/journal.pcbi.1004020](http://doi.org/10.1371/journal.pcbi.1004020)
+- BONUS PAPER: Erren, T. C., Slanger, T. E., Groß, J. V., Bourne, P. E., & Cullen, P. (2015). Ten simple rules for lifelong learning, according to Hamming. *PLoS Computational Biology*, 11(2), e1004020. [http://doi.org/10.1371/journal.pcbi.1004020](http://doi.org/10.1371/journal.pcbi.1004020)
 
     This is a really good set of points giving general advice on how to keep an open, receptive mind. This doesn't just aid lifelong learning, but helps keep life interesting.
